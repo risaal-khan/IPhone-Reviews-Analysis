@@ -12,8 +12,6 @@ This is Challenge Project from **DataDNA** iPhone Reviews Dataset Challenge from
 
 ## Dataset Columns and Descriptions 📝
 
-## Dataset Columns and Descriptions
-
 | Column Name        | Description                                                     |
 |--------------------|-----------------------------------------------------------------|
 | **product**        | The product being reviewed. *(String)*                         |
